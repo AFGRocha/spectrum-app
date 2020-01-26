@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f1f081cc4e6f90f90eb93552c38e72ba.js"
+  "/precache-manifest.ba7d1d8b3a9686d0a3b41368c86a21ef.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Spectrum"});
